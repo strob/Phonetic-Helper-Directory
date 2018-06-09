@@ -1,0 +1,6 @@
+[submodule "ext/MFA"]
+	path = ext/MFA
+	url = https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner.git
+[submodule "ext/kaldi"]
+	path = ext/kaldi
+	url = https://github.com/kaldi-asr/kaldi.git
